@@ -1,4 +1,4 @@
-# Assesmen_Streams-Nodejs
+# Assessment_Streams-Nodejs
 
 In this repository there is presentation file and Final report study on streams using nodejs with set of examples coded and executed 
 successfully in local machine.
