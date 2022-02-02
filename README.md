@@ -4,7 +4,7 @@ In this repository there is presentation file and Final report study on streams 
 successfully in local machine.
 
 # Working 
-1. Install Node and download the examples file
+1. Install Node and download the Streams-examples folder
 2. Open in any code editor like Vs code.
 3. run each program by using node 
    Example : node <filename.js>
